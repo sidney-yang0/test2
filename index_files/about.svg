@@ -1,0 +1,258 @@
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1133.3 378">
+<defs>
+<style>
+	.selected use{
+		fill: #2DAAE1;
+		}
+	.gray{
+	 	stroke: #B2B7C3;
+	 	stroke-linecap: round;
+	 	stroke-linejoin: round;
+	 	}
+</style>
+<g id="people">
+	<circle cx="0" cy="-16.2" r="7.2"/>
+	<path d="M9,8.8c0,1.6-1.3,3-3,3H-6c-1.6,0-3-1.3-3-3V-4.8c0-1.6,1.3-3,3-3H6c1.6,0,3,1.3,3,3V8.8z"/>
+	<g>
+		<path d="M-5.7,21c0,1.4,1.1,2.5,2.5,2.5c1.4,0,2.5-1.1,2.5-2.5V10.3h-4.9V21z"/>
+		<path d="M0.8,10.3V21c0,1.4,1.1,2.5,2.5,2.5s2.5-1.1,2.5-2.5V10.3H0.8z"/>
+	</g>
+</g>
+<g id="people_group">
+	<use xlink:href="#people" x="-100.25" y="-25.1"/>
+	<use xlink:href="#people" x="-77.9" y="-25.1"/>
+	<use xlink:href="#people" x="-55.6" y="-25.1"/>
+	<use xlink:href="#people" x="-33.4" y="-25.1"/>
+	<use xlink:href="#people" x="-11.1" y="-25.1"/>
+	<use xlink:href="#people" x="11.1" y="-25.1"/>
+	<use xlink:href="#people" x="33.4" y="-25.1"/>
+	<use xlink:href="#people" x="55.6" y="-25.1"/>
+	<use xlink:href="#people" x="77.9" y="-25.1"/>
+	<use xlink:href="#people" x="100.25" y="-25.1"/>
+	
+	<use xlink:href="#people" x="-100.25" y="25.1"/>
+	<use xlink:href="#people" x="-77.9" y="25.1"/>
+	<use xlink:href="#people" x="-55.6" y="25.1"/>
+	<use xlink:href="#people" x="-33.4" y="25.1"/>
+	<use xlink:href="#people" x="-11.1" y="25.1"/>
+	<use xlink:href="#people" x="11.1" y="25.1"/>
+	<use xlink:href="#people" x="33.4" y="25.1"/>
+	<use xlink:href="#people" x="55.6" y="25.1"/>
+	<use xlink:href="#people" x="77.9" y="25.1"/>
+	<use xlink:href="#people" x="100.25" y="25.1"/>
+</g>	
+</defs>
+
+<g id="lineCamembert">
+	<path fill="#B3B7C3" d="M280.1,266.9c-25.4,0-46.1,20.6-46.1,46.1
+		c0,25.4,20.6,46.1,46.1,46.1c25.4,0,46.1-20.6,46.1-46.1C326.2,287.5,305.5,266.9,280.1,266.9z"/>
+	<path fill="#B3B7C3" d="M335.1,34.9C309.7,34.9,289,55.5,289,81s20.6,46.1,46.1,46.1
+		c25.4,0,46.1-20.6,46.1-46.1S360.5,34.9,335.1,34.9z"/>
+	<path fill="#B3B7C3" d="M847.5,217.9c25.4,0,46.1,20.6,46.1,46.1
+		c0,25.4-20.6,46.1-46.1,46.1s-46.1-20.6-46.1-46.1C801.4,238.5,822,217.9,847.5,217.9z"/>
+	<path fill="#B3B7C3" d="M775.5,4.9c25.4,0,46.1,20.6,46.1,46.1S800.9,97,775.5,97
+		C750,97,729.4,76.4,729.4,51S750,4.9,775.5,4.9z"/>
+	<path fill="#B3B7C3" d="M333.2,79.9l1.3-1.6l227,173l-1.3,1.6L333.2,79.9z"/>
+	<path fill="#B3B7C3" d="M556.8,252.1l0-2l292,12l0,2L556.8,252.1z"/>
+	<path fill="#B3B7C3" d="M776.1,49.5l1.4,1.4l-208,201l-1.4-1.4L776.1,49.5z"/>
+	<path fill="#B3B7C3" d="M280,314.1l-0.4-2l281-62l0.4,2L280,314.1z"/>
+	<path fill="#FFFFFF" stroke="#B2B7C3" d="M817.3,67.2
+		c-6.5,16.8-22.8,28.7-41.9,28.7c-24.8,0-44.9-20.1-44.9-44.9s20.1-44.9,44.9-44.9l0.6,43.4"/>
+	<path fill="#FFFFFF" stroke="#B2B7C3" d="M847.5,219.2l1.3,45
+		l31.9-30.3c7.2,8,11.6,18.5,11.6,30.1c0,24.7-20.1,44.8-44.8,44.8c-24.7,0-44.8-20.1-44.8-44.8S822.7,219.2,847.5,219.2z"/>
+	<path fill="#FFFFFF" stroke="#B2B7C3" d="M280.6,268.8l-0.1,45.3
+		l-19.4,38.6c5.9,2.9,12.5,4.5,19.5,4.5c24.4,0,44.2-19.8,44.2-44.2C324.8,288.6,305,268.8,280.6,268.8z"/>
+	<path fill="#FFFFFF" stroke="#B2B7C3" d="M335.1,36.4l0,45
+		l-9-44.1c-20.3,4.2-35.6,22.1-35.6,43.7c0,24.6,20,44.6,44.6,44.6s44.6-20,44.6-44.6S359.7,36.4,335.1,36.4z"/>
+</g>
+<g id="computer">
+	<path fill="#FDFDFE" stroke="#B2B7C3" d="M436.6,334.7v-171c0-3.1,2.5-5.7,5.7-5.7h260.9
+		c3.1,0,5.7,2.5,5.7,5.7v171H436.6z"/>
+	<polyline fill="none" stroke="#B2B7C3" points="436.6,334.7 380.1,367.9 771.5,367.9 708.9,334.7 	"/>
+	<path fill="none" stroke="#B2B7C3" d="M382.9,370.7h385.7c0,0-7.2,6.5-28.8,6.7c-21.7,0.2-330.3,0-330.3,0
+		S390.2,377.5,382.9,370.7z"/>
+	<polyline fill="none" stroke="#B2B7C3" points="462.8,334.7 443.5,351.3 705.4,350.5 685.6,334.7 	"/>
+	<path fill="none" stroke="#B2B7C3" d="M621.9,363.1c-0.4-2.2-3.8-9.2-5.4-10.4h-50.2c-0.2-0.1-0.4,0-0.4,0
+		h-9.5c0,0-0.1-0.1-0.4,0h-20.2c-1.6,1.1-5,8.1-5.4,10.4s0.6,2.2,0.6,2.2h20h20h50C621.2,365.4,622.2,365.4,621.9,363.1z"/>
+	<path fill="none" class="gray" d="M560.5,338.6"/>
+		<line fill="none" class="gray" x1="461.9" y1="338.8" x2="687" y2="338.9"/>
+		<line fill="none" class="gray" x1="458.8" y1="342.3" x2="691.4" y2="342.3"/>
+		<line fill="none" class="gray" x1="455.1" y1="345.6" x2="695.5" y2="345.6"/>
+	<polyline fill="none" class="gray" points="
+		681.7,334.7 700,349.1 450.4,349.1 466.8,334.7 	"/>
+		<line fill="none" class="gray" x1="486.3" y1="334.7" x2="483.5" y2="338.6"/>
+		<line fill="none" class="gray" x1="466" y1="345.6" x2="463.3" y2="349.1"/>
+		<line fill="none" class="gray" x1="470.7" y1="345.6" x2="468.5" y2="349.1"/>
+		<line fill="none" class="gray" x1="489.9" y1="334.7" x2="487.4" y2="338.6"/>
+		<line fill="none" class="gray" x1="490.6" y1="338.9" x2="488.6" y2="342.3"/>
+		<line fill="none" class="gray" x1="483.9" y1="345.6" x2="481.8" y2="348.6"/>
+		<line fill="none" class="gray" x1="488.6" y1="345.6" x2="486.3" y2="349.1"/>
+		<line fill="none" class="gray" x1="502.4" y1="334.7" x2="499.6" y2="338.6"/>
+		<line fill="none" class="gray" x1="506.3" y1="334.7" x2="503.9" y2="338.6"/>
+		<line fill="none" class="gray" x1="518.1" y1="334.7" x2="516.3" y2="338.8"/>
+		<line fill="none" class="gray" x1="521.9" y1="334.7" x2="520.4" y2="338.6"/>
+		<line fill="none" class="gray" x1="533.2" y1="334.7" x2="532" y2="338.8"/>
+		<line fill="none" class="gray" x1="494.2" y1="338.9" x2="492.2" y2="342.3"/>
+		<line fill="none" class="gray" x1="506.9" y1="338.9" x2="505.1" y2="342.3"/>
+		<line fill="none" class="gray" x1="511.1" y1="338.9" x2="509.5" y2="342.3"/>
+		<line fill="none" class="gray" x1="523.4" y1="338.9" x2="522.3" y2="341.9"/>
+		<line fill="none" class="gray" x1="527.7" y1="338.9" x2="526.5" y2="342.3"/>
+		<line fill="none" class="gray" x1="539.5" y1="338.9" x2="538.9" y2="342.3"/>
+		<line fill="none" class="gray" x1="543.1" y1="338.9" x2="543.1" y2="341.9"/>
+		<line fill="none" class="gray" x1="555.8" y1="338.9" x2="555.8" y2="341.9"/>
+		<line fill="none" class="gray" x1="560.5" y1="338.9" x2="560.5" y2="341.9"/>
+		<line fill="none" class="gray" x1="572.2" y1="338.9" x2="572.2" y2="341.9"/>
+		<line fill="none" class="gray" x1="576.5" y1="338.9" x2="576.5" y2="341.9"/>
+		<line fill="none" class="gray" x1="588.2" y1="338.9" x2="588.2" y2="341.9"/>
+		<line fill="none" class="gray" x1="593.2" y1="338.9" x2="593.7" y2="342.3"/>
+		<line fill="none" class="gray" x1="605.1" y1="338.9" x2="606.4" y2="342.3"/>
+		<line fill="none" class="gray" x1="609.3" y1="338.9" x2="610.6" y2="342.3"/>
+		<line fill="none" class="gray" x1="621.1" y1="338.8" x2="623.1" y2="342.3"/>
+		<line fill="none" class="gray" x1="625" y1="338.9" x2="627.6" y2="342.3"/>
+		<line fill="none" class="gray" x1="637.9" y1="338.9" x2="640.9" y2="342.3"/>
+		<line fill="none" class="gray" x1="641.5" y1="338.9" x2="644.5" y2="342.3"/>
+		<line fill="none" class="gray" x1="653.5" y1="338.9" x2="656.5" y2="342.3"/>
+		<line fill="none" class="gray" x1="658.7" y1="338.9" x2="661.1" y2="342.3"/>
+		<line fill="none" class="gray" x1="496.3" y1="342.3" x2="494.2" y2="345.6"/>
+		<line fill="none" class="gray" x1="499.9" y1="342.3" x2="498" y2="345.2"/>
+		<line fill="none" class="gray" x1="513.1" y1="342.3" x2="511.4" y2="345.6"/>
+		<line fill="none" class="gray" x1="517.2" y1="342.3" x2="516.3" y2="345.2"/>
+		<line fill="none" class="gray" x1="529.9" y1="342.3" x2="528.8" y2="345.2"/>
+		<line fill="none" class="gray" x1="534.1" y1="342.3" x2="533.2" y2="345.2"/>
+		<line fill="none" class="gray" x1="546.8" y1="342.3" x2="546.1" y2="345.6"/>
+		<line fill="none" class="gray" x1="551.5" y1="342.3" x2="551" y2="345.6"/>
+		<line fill="none" class="gray" x1="564.1" y1="342.3" x2="563.8" y2="345.6"/>
+		<line fill="none" class="gray" x1="568.3" y1="342.3" x2="568.1" y2="345.6"/>
+		<line fill="none" class="gray" x1="581.7" y1="342.3" x2="581.7" y2="345.6"/>
+		<line fill="none" class="gray" x1="585.4" y1="342.3" x2="585.8" y2="345.6"/>
+		<line fill="none" class="gray" x1="597.8" y1="342.3" x2="598.4" y2="345.6"/>
+		<line fill="none" class="gray" x1="602" y1="342.3" x2="603.1" y2="345.2"/>
+		<line fill="none" class="gray" x1="615.2" y1="342.3" x2="616.5" y2="345.2"/>
+		<line fill="none" class="gray" x1="618.9" y1="342.3" x2="620.6" y2="345.2"/>
+		<line fill="none" class="gray" x1="631.8" y1="342.3" x2="633.8" y2="345.2"/>
+		<line fill="none" class="gray" x1="636.4" y1="342.3" x2="638.6" y2="345.6"/>
+		<line fill="none" class="gray" x1="649" y1="342.3" x2="651.3" y2="345.2"/>
+		<line fill="none" class="gray" x1="652.9" y1="342.3" x2="655.5" y2="345.6"/>
+		<line fill="none" class="gray" x1="501.6" y1="345.6" x2="499.6" y2="349.1"/>
+		<line fill="none" class="gray" x1="506.3" y1="345.6" x2="504.4" y2="348.6"/>
+		<line fill="none" class="gray" x1="523.4" y1="345.6" x2="522.3" y2="348.6"/>
+		<line fill="none" class="gray" x1="528.5" y1="345.6" x2="527.1" y2="349.1"/>
+		<line fill="none" class="gray" x1="603.1" y1="345.6" x2="604.2" y2="348.6"/>
+		<line fill="none" class="gray" x1="607.8" y1="345.6" x2="609.3" y2="349.1"/>
+		<line fill="none" class="gray" x1="625.5" y1="345.6" x2="627.2" y2="348.6"/>
+		<line fill="none" class="gray" x1="630" y1="345.6" x2="631.8" y2="348.6"/>
+		<line fill="none" class="gray" x1="643" y1="345.6" x2="645.1" y2="348.6"/>
+		<line fill="none" class="gray" x1="665.3" y1="345.6" x2="668.6" y2="349.1"/>
+		<line fill="none" class="gray" x1="679.1" y1="345.6" x2="681.8" y2="348.6"/>
+		<line fill="none" class="gray" x1="537.1" y1="334.7" x2="536.1" y2="338.6"/>
+		<line fill="none" class="gray" x1="548.5" y1="334.7" x2="547.8" y2="338.6"/>
+		<line fill="none" class="gray" x1="552.8" y1="334.7" x2="552" y2="338.3"/>
+		<line fill="none" class="gray" x1="564.4" y1="334.7" x2="563.9" y2="338.9"/>
+		<line fill="none" class="gray" x1="568.9" y1="334.7" x2="568.3" y2="338.8"/>
+		<line fill="none" class="gray" x1="580.3" y1="334.7" x2="580.3" y2="338.8"/>
+		<line fill="none" class="gray" x1="584.3" y1="334.7" x2="584.3" y2="338.8"/>
+		<line fill="none" class="gray" x1="595.6" y1="334.7" x2="596.2" y2="338.8"/>
+		<line fill="none" class="gray" x1="599.5" y1="334.7" x2="600.8" y2="338.9"/>
+		<line fill="none" class="gray" x1="610.6" y1="334.7" x2="612.3" y2="338.3"/>
+		<line fill="none" class="gray" x1="614.7" y1="334.7" x2="616.5" y2="338.6"/>
+		<line fill="none" class="gray" x1="626.3" y1="334.7" x2="628.7" y2="338.6"/>
+		<line fill="none" class="gray" x1="630.3" y1="334.7" x2="632.3" y2="338.3"/>
+		<line fill="none" class="gray" x1="642.1" y1="334.7" x2="644.5" y2="338.6"/>
+		<line fill="none" class="gray" x1="646.4" y1="334.7" x2="648.7" y2="338.6"/>
+		<line fill="none" class="gray" x1="658.2" y1="334.7" x2="660.7" y2="338.3"/>
+		<line fill="none" class="gray" x1="661.9" y1="334.7" x2="664.8" y2="338.6"/>
+	<rect x="447.9" y="169.3" fill="#EAEAEA" stroke="#B2B7C3" width="249.7" height="153.8"/>
+</g>
+<path fill="none" stroke="#E86CA9" d="M448.7,251.2h20.5c0,0,2.6-8,3.7-8c1.2,0,2.2,5,3,8h2.6
+	c0,0,0.6,2.3,2,4.9c0,0,0.8-52.6,2.5-56.7c0,0,1.2-2.6,1.2,4.3c0,0,2.9,73.7,3.8,75.9c0,0,0.8,2.2,1.5-1.4
+	c0.7-3.6,0.9-25.8,0.9-25.8s-0.1-0.9,1.3-0.9c1.4,0,6.7,0,6.7,0s2-3.3,5.6-3.6c0,0,4.9-0.7,6.8,3.9h10.3c0,0,1.9-8.4,3-8.4
+	c0,0,1.4,0.6,2.6,8.1h3.3c0,0,0.8,4,2,5.3c0,0,0.2-11,1.1-28.4c0,0,0.6-29,1.9-28.5c1.3,0.5,2.2,44.3,2.8,52.7s1.5,28.2,2.3,26.8
+	c0.8-1.4,2.1-27.8,2.1-27.8h7.4c0,0,3.3-3,5.8-3.3c2.6-0.2,4.8,1.1,6.8,3.4h19.8"/>
+<g id="Heart">
+	<polygon id="Fill-1" fill="#DA7643" points="601.8,236.5 601.8,246.4 601.8,246.4 601.8,256.5 601.8,266.4 611.8,266.4 
+		611.8,256.5 611.8,246.4 611.8,246.4 611.8,236.5 	"/>
+	<polygon id="Fill-2" fill="#4C5657" points="621.7,266.4 611.8,266.4 611.7,266.4 601.8,266.4 601.8,276.3 611.7,276.3 
+		611.7,286.3 621.7,286.3 621.7,276.3 631.8,276.3 631.8,266.4 	"/>
+	<polygon id="Fill-3" fill="#811E41" points="621.7,226.5 621.7,236.5 611.7,236.5 611.7,244.6 611.7,246.4 611.7,256.5 
+		621.7,256.5 621.7,246.4 631.8,246.4 631.8,236.5 631.8,226.5 	"/>
+	<polygon id="Fill-4" fill="#C62E4E" points="581.8,246.4 581.8,256.5 591.8,256.5 591.8,256.5 591.8,266.4 601.8,266.4 
+		601.8,256.5 601.8,246.4 591.8,246.4 591.8,246.4 	"/>
+	<polygon id="Fill-5" fill="#DA7643" points="631.8,236.5 641.7,236.5 641.7,226.5 631.8,226.5 	"/>
+	<polygon id="Fill-6" fill="#4C5657" points="641.7,226.5 651.7,226.5 651.7,216.6 641.7,216.6 	"/>
+	<polygon id="Fill-8" fill="#935975" points="631.8,256.5 631.8,246.4 621.7,246.4 621.7,256.5 611.7,256.5 611.7,266.4 
+		621.7,266.4 631.8,266.4 641.7,266.4 641.7,256.5 	"/>
+	<polygon id="Fill-9" fill="#CDAA72" points="601.8,236.5 611.8,236.5 611.8,226.5 601.8,226.5 	"/>
+	<polygon id="Fill-10" fill="#935975" points="591.8,226.5 591.8,236.5 581.8,236.5 581.8,246.4 591.8,246.4 601.8,246.4 
+		601.8,236.5 601.8,226.5 	"/>
+	<polygon id="Fill-11" fill="#606161" points="635.7,241.7 637.7,239.7 639.7,241.7 641.7,239.7 643.7,241.7 645.6,239.7 
+		647.6,241.7 649.6,239.7 651.6,241.7 651.7,241.7 651.7,239.7 651.6,239.7 649.6,237.7 647.6,239.7 645.6,237.7 643.7,239.7 
+		641.7,237.7 639.7,239.7 637.7,237.7 635.7,239.7 633.6,237.7 631.8,239.7 631.8,241.7 633.6,239.7 	"/>
+	<polygon id="Fill-12" fill="#606161" points="649.6,244.4 647.6,246.4 645.6,244.4 643.7,246.4 641.7,244.4 639.7,246.4 
+		637.7,244.4 635.7,246.4 633.6,244.4 631.8,246.4 631.8,248.4 633.6,246.4 635.7,248.4 637.7,246.4 639.7,248.4 641.7,246.4 
+		643.7,248.4 645.6,246.4 647.6,248.4 649.6,246.4 651.6,248.4 651.7,248.4 651.7,246.4 651.6,246.4 	"/>
+	<polygon id="Fill-13" fill="#606161" points="649.6,251.2 647.6,253.2 645.6,251.2 643.7,253.2 641.7,251.2 639.7,253.2 
+		637.7,251.2 635.7,253.2 633.6,251.2 631.8,253.2 631.8,255.1 633.6,253.2 635.7,255.1 637.7,253.2 639.7,255.1 641.7,253.2 
+		643.7,255.1 645.6,253.2 647.6,255.1 649.6,253.2 651.6,255.1 651.7,255.1 651.7,253.2 651.6,253.2 	"/>
+</g>
+<g id="selectedPeople1">
+	<use xlink:href="#people_group" x="949" y="49.2" fill="#747888"/>
+	<g class="selected" fill="#2DAAE1" transform="translate(949,49.2)">
+
+		<use xlink:href="#people" x="-100.25" y="-25.1"/>
+		<use xlink:href="#people" x="-77.9" y="-25.1"/>
+		<use xlink:href="#people" x="-55.6" y="-25.1"/>
+		<use xlink:href="#people" x="-33.4" y="-25.1"/>
+		<use xlink:href="#people" x="-11.1" y="-25.1"/>
+		<use xlink:href="#people" x="11.1" y="-25.1"/>
+
+		<g class="partial" transform="translate(33.4,-25.1)">
+			<path d="M-7.2-16.2c0-4,3.2-7.2,7.2-7.2c4,0,7.2,3.2,7.2,7.2"/>
+		</g>
+
+	</g>
+
+</g>
+<g id="selectedPeople2">
+	<use xlink:href="#people_group" x="1024" y="262" fill="#747888"/>
+	<g class="selected" fill="#2DAAE1" transform="translate(1024,262)">
+
+		<use xlink:href="#people" x="-100.25" y="-25.1"/>
+		<use xlink:href="#people" x="-77.9" y="-25.1"/>
+		<use xlink:href="#people" x="-55.6" y="-25.1"/>
+
+		<g class="partial" transform="translate(-33.4,-25.1)">
+			<circle fill="#2DAAE1" cx="0" cy="-16.2" r="7.2"/>
+			<path fill="#2DAAE1" d="M-9,1v-5.9c0-1.6,1.3-3,3-3H6c1.6,0,3,1.3,3,3V1"/>
+		</g>
+
+	</g>
+</g>
+<g id="selectedPeople3">
+	<use xlink:href="#people_group" x="109" y="315" fill="#747888"/>
+	<g class="selected" fill="#2DAAE1" transform="translate(109,315)">
+		<g class="partial" transform="translate(-100.25,-25.1)">
+			<circle fill="#2DAAE1" cx="0" cy="-16.2" r="7.2"/>
+		</g>
+	</g>
+</g>
+<g id="selectedPeople4">
+	<use xlink:href="#people_group" x="156.6" y="80.4" fill="#747888"/>
+	<g class="selected" fill="#2DAAE1" transform="translate(156.6,80.4)">
+		<use xlink:href="#people" x="-100.25" y="-25.1"/>
+		<use xlink:href="#people" x="-77.9" y="-25.1"/>
+		<use xlink:href="#people" x="-55.6" y="-25.1"/>
+		<use xlink:href="#people" x="-33.4" y="-25.1"/>
+		<use xlink:href="#people" x="-11.1" y="-25.1"/>
+		<use xlink:href="#people" x="11.1" y="-25.1"/>
+		<use xlink:href="#people" x="33.4" y="-25.1"/>
+		<use xlink:href="#people" x="55.6" y="-25.1"/>
+		<use xlink:href="#people" x="77.9" y="-25.1"/>
+		<g class="partial" transform="translate(100.25,-25.1)">
+			<circle fill="#2DAAE1" cx="0" cy="-16.2" r="7.2"/>
+			<path fill="#2DAAE1" d="M9,8.8c0,1.6-1.3,3-3,3H-6c-1.6,0-3-1.3-3-3V-4.8c0-1.6,1.3-3,3-3H6c1.6,0,3,1.3,3,3V8.8z"/>
+		</g>
+	</g>
+</g>
+</svg>
